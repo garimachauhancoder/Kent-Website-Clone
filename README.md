@@ -2,4 +2,4 @@ Kent Website Clone Project_ This repository contains a Kent Website clone projec
 
 Contributing Contributions to the Kent Website clone project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
 
-If you would like to contribute to the project, please fork the repository, create a new branch for your changes, and submit a pull request with a detailed description of your modifications
+If you would like to contribute to the project, please fork the repository, create a new branch for your changes, and submit a pull request with a detailed description of your modifications.
